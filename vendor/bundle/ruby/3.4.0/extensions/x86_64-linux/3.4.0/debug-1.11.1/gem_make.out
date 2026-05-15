@@ -1,0 +1,19 @@
+current directory: /home/gabrieldebug/Documentos/MvC/blogstrap/vendor/bundle/ruby/3.4.0/gems/debug-1.11.1/ext/debug
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/gabrieldebug/Documentos/MvC/blogstrap/vendor/bundle/ruby/3.4.0/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20260515-19119-4feplh sitelibdir\=./.gem.20260515-19119-4feplh clean
+
+current directory: /home/gabrieldebug/Documentos/MvC/blogstrap/vendor/bundle/ruby/3.4.0/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20260515-19119-4feplh sitelibdir\=./.gem.20260515-19119-4feplh
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/gabrieldebug/Documentos/MvC/blogstrap/vendor/bundle/ruby/3.4.0/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20260515-19119-4feplh sitelibdir\=./.gem.20260515-19119-4feplh install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20260515-19119-4feplh/debug
+
+current directory: /home/gabrieldebug/Documentos/MvC/blogstrap/vendor/bundle/ruby/3.4.0/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20260515-19119-4feplh sitelibdir\=./.gem.20260515-19119-4feplh clean
